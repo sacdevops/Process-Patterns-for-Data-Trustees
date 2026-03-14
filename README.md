@@ -22,6 +22,7 @@ This repository includes:
 │   └── svg/        # Contains all process pattern visualizations in .svg format
 ├── docs/           # Extended documentation for service components
 └── README.md
+```
 
 ## 🛠️ How to Use
 
@@ -30,11 +31,13 @@ This repository includes:
 
 ## 📝 Citation
 If you use these process patterns or the accompanying documentation in your research or technical implementations, please cite our paper:
+```
 @inproceedings{Author2026DataTrustees,
   author    = {First Author and Second Author and Third Author and Fourth Author},
   title     = {Designing Data Trustees: A Modular Process Pattern Approach for Data Trustees},
   booktitle = {Proceedings of the International Conference on Wirtschaftsinformatik (WI)},
   year      = {2026},
-  publisher = {AIS eLibrary},
+  publisher = {Coming},
   note      = {Forthcoming}
 }
+```
